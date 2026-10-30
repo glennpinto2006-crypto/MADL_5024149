@@ -1,0 +1,17 @@
+name: practical6_madl
+description: Flutter application demonstrating icons images and charts.
+publish_to: 'none'
+
+version: 1.0.0+1
+
+environment:
+  sdk: '>=2.17.0 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+dev_dependencies: {}
+
+flutter:
+  uses-material-design: true
